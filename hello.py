@@ -1,3 +1,4 @@
+print('sure thing')
 from datetime import datetime
 date_format = '%m/%d/%Y'
 today = datetime.today().strftime('%m/%d/%Y')
